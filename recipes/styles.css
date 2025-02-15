@@ -1,0 +1,14 @@
+body {
+    background-color:blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#navi {
+    color: gold;
+}
+#title, p {
+    font-weight: 900;
+}
+.list {
+    color: #0ff;
+    font-size: 18px;
+}
